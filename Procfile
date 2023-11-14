@@ -1,0 +1,1 @@
+web: gunicorn automax_app_backend.wsgi --log-file -
